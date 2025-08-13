@@ -1,12 +1,12 @@
-# 💻 Web Developer Internship – Task 25  
-**Project:** Responsive Footer with Social Media Links  
-
+# 💻 Responsive Footer with Social Media Links  
 ---
-
-## 📌 Overview  
+  
 This project is part of my **Web Developer Internship** and focuses on building a **professional, clean, and responsive footer** using **HTML & CSS** (with optional JavaScript features). The footer is reusable and can be integrated into any webpage.
-
 ---
+
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/Responsive-Footer/)
+
 
 ## 🎯 Objective  
 - Design a **responsive footer section** that works on all screen sizes.  
@@ -32,29 +32,23 @@ This project is part of my **Web Developer Internship** and focuses on building 
 ---
 
 ## 🛠️ Tech Stack  
-- **HTML5** – Structure  
-- **CSS3** – Styling & Layout (Flexbox, Media Queries)  
-- **JavaScript (Optional)** – Interactivity  
-- **Google Fonts** – Typography  
-- **Font Awesome** – Social Media Icons  
+- **HTML5**
+- **CSS**  
+- **JavaScript**
+- **Google Fonts** 
+- **Font Awesome**  
 
 ---
 
 ## 📂 Folder Structure  
 ```
-Task-25-Responsive-Footer/
-│── index.html       # Main HTML file
-│── style.css        # Styling file
-│── script.js        # Optional JavaScript file
-│── README.md        # Documentation
+Responsive-Footer/
+│── index.html
+│── style.css
+│── script.js
+
 ```
 
----
-
-## 📸 Screenshot  
-*(Include your project screenshot here after running the code)*
-
----
 
 ## 🚀 How to Use  
 1. Clone or download the repository.  
@@ -80,10 +74,21 @@ Task-25-Responsive-Footer/
 
 ---
 
-## 📜 License  
-This project is for **educational purposes** under my internship program.  
-You can use and modify it for personal or learning use.  
+## 📌 License
+
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+## 👨‍💻 Author
+**Sheeraz Ahmed**  
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
+
+
+
+
+---
+
 
 © **2025 CoreTech Innovations** – All rights reserved.
