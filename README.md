@@ -1,8 +1,6 @@
 # 💻 Responsive Footer with Social Media Links  
----
   
 This project is part of my **Web Developer Internship** and focuses on building a **professional, clean, and responsive footer** using **HTML & CSS** (with optional JavaScript features). The footer is reusable and can be integrated into any webpage.
----
 
 ## 🌐 Live Demo
 [View Live Site](https://sheeraz-engineer.github.io/Responsive-Footer/)
